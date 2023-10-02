@@ -1,0 +1,39 @@
+# Arquivos de compilação
+bin/
+target/
+
+# Arquivos de configuração
+.idea/
+.classpath
+.project
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de dependência Maven (caso você esteja usando o Maven)
+/.mvn/
+target/
+
+# Diretório de saída do Gradle (caso você esteja usando o Gradle)
+/build/
+
+# Arquivos de configuração do Eclipse
+.settings/
+
+# Arquivos gerados automaticamente
+*.class
+*.jar
+
+# Arquivos de cache
+.caches/
+
+# Diretório de saída do NetBeans
+nbproject/private/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
